@@ -1,13 +1,13 @@
 {
   "name": "supplylabs-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pratical Logic Test",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Cesar Augusto <cesar.desenvolvedor@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.3.1"
