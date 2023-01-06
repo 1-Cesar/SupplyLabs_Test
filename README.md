@@ -28,6 +28,8 @@ RuleSet.IsCoherent(): a method for rule sets that returns true if it is a cohere
 <h2>Installing</h2>  
 <p>In order to better explore, modify and enhance this project, we suggest installing VSCode itself. Editor used to build this system.
 
-With the project open, please run the npm install command to install required modules.</p>
+With the project open, please run the npm install command to install required modules. </p>
+
+<p>Then run the npm run test command to start the program.</p>
 <hr>
 <h4 align="center">Thanks ! 😀</h4>
